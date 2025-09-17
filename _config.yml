@@ -15,9 +15,12 @@ title: Thomas Nouragas's Portfolio # This is what shows up in the tab of the bro
 name: Thomas Nouragas
 headline: Electrical & Computer Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello, I’m Thomas Nouragas, an engineer with a background in electrical, computer, and robotics systems.
+  I enjoy creating solutions that connect hardware and software, from
+  designing complex digital systems to building advanced robotics.
+  My projects combine CAD design, 3D printing, wiring, and programming,
+  and I’m passionate about turning ideas into functional prototypes that solve real problems. 
+  I am eager to apply my skills to new opportunities, expand my expertise, and contribute to innovative engineering solutions in the years ahead.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/circle_image.jpg
