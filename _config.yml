@@ -63,7 +63,6 @@ skills:
     - Mechanical Integration
   - category: Programming & Tools
     tools:
-    - MATLAB
     - C/C++
     - Java
     - Arduino IDE
